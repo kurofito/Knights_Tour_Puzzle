@@ -29,7 +29,7 @@ If you answer no, it will ouput solution to the puzzle if there is a solution.
 
 If you answer yes, the program will check if there is a solution to this puzzle. 
 If there is a solution to the puzzle then program will initialize the puzzle.
-However, if there is no solutino to this puzzle it will ouput, no solution.
+However, if there is no solution to this puzzle it will ouput, no solution.
 
 ![6](https://user-images.githubusercontent.com/61360055/114817958-e2a5d800-9df5-11eb-8821-049d74339f4d.png)
 
