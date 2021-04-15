@@ -14,7 +14,7 @@ Then the program will ask for starting position.
 
 Coordinate system for the puzzle is as follows:
 
-![grid](https://user-images.githubusercontent.com/61360055/114816697-9eb1d380-9df3-11eb-8c72-cd9ac7bae159.png)
+![7](https://user-images.githubusercontent.com/61360055/114818534-e6862a00-9df6-11eb-8809-5bc1fd213c6c.png)
 
 
 After entering a starting position, it will ask if you would like to try the puzzle.
