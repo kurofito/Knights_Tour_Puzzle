@@ -35,5 +35,9 @@ However, if there is no solution to this puzzle it will ouput, no solution.
 
 
 As you can see from the above picture, there are numbers around the starting position. These numbers are number of moves that its position has.
-For example, if you move you knight to (1,5), there are 3 positions possible from (1,5). Think of this feature as a helper to solving this puzzle.
+For example, if you move your knight to (1,5), there are 3 positions possible from (1,5). Think of this feature as a helper to solving this puzzle.
+
+Puzzle hint: choose a position that has the lowest possible moves.
+
+Enjoy!
 
