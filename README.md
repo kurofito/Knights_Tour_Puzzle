@@ -1,4 +1,4 @@
-# Knight's Tour Puzzle
+# Knight's Tour Puzzle in python (3.9)
 
 This is a command line puzzle that one can play.
 
