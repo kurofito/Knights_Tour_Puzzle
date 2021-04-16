@@ -22,7 +22,7 @@ After entering a starting position, it will ask if you would like to try the puz
 ![4](https://user-images.githubusercontent.com/61360055/114817462-01579f00-9df5-11eb-921e-25cc32d7bd2c.png)
 
 
-If you answer no, it will output solution to the puzzle if there is a solution.
+If you answer no, it will output a solution to the puzzle if there is a solution.
 
 ![5](https://user-images.githubusercontent.com/61360055/114817821-a70b0e00-9df5-11eb-8757-6d3384843002.png)
 
@@ -35,7 +35,7 @@ However, if there is no solution to the puzzle it will ouput, no solution.
 
 
 As you can see from the above picture, there are numbers around the starting position. These numbers are number of moves that its position has.
-For example, if you move your knight to (1,5), there are 3 positions possible from (1,5). Think of this feature as a helper to solving this puzzle.
+For example, if you move your knight to (1,5), there are 3 positions possible from (1,5). Think of this feature as a helper to solving the puzzle.
 
 Puzzle hint: choose a position that has the lowest possible moves.
 
