@@ -8,7 +8,7 @@ So it will ask for a dimension of the puzzle. Enter any dimension you like to pl
 
 ![1](https://user-images.githubusercontent.com/61360055/114816393-00be0900-9df3-11eb-9ab1-37a76ef97928.png)
 
-Then the program will ask for starting position.
+Then the program will ask for a starting position.
 
 ![2](https://user-images.githubusercontent.com/61360055/114816672-922d7b00-9df3-11eb-81f8-7e4b02b65b9a.png)
 
