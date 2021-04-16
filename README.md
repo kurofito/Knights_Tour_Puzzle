@@ -22,7 +22,7 @@ After entering a starting position, it will ask if you would like to try the puz
 ![4](https://user-images.githubusercontent.com/61360055/114817462-01579f00-9df5-11eb-921e-25cc32d7bd2c.png)
 
 
-If you answer no, it will ouput solution to the puzzle if there is a solution.
+If you answer no, it will output solution to the puzzle if there is a solution.
 
 ![5](https://user-images.githubusercontent.com/61360055/114817821-a70b0e00-9df5-11eb-8757-6d3384843002.png)
 
